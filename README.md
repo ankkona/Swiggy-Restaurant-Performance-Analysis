@@ -14,7 +14,7 @@ The dataset contains restaurant-level information including ratings, cost, cuisi
 - Slicers
 
 # Dashboard
-<img src="https://github.com/ankkona/Swiggy-Restaurant-Performance-Pricing-Analysis/blob/main/Dashboard.png" width="1200"/>
+<img src="https://github.com/ankkona/Swiggy-Restaurant-Performance-Analysis/blob/main/Dashboard.png" width="1200"/>
 
 # What I worked on
 - Cleaned and prepared raw data using Excel’s built-in features such as sorting, filtering, formulas, and removing duplicates.
