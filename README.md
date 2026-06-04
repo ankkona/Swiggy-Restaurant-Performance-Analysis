@@ -3,7 +3,7 @@ This project analyzes restaurant-level data from an online food delivery platfor
  
 # Dataset
 The dataset contains restaurant-level information including ratings, cost, cuisine, city, food type, and delivery distance.This analysis uses a publicly available dataset for educational and portfolio purposes.
-- <a href="https://github.com/ankkona/Swiggy-Restaurant-Performance-Pricing-Analysis/blob/main/Swiggy%20Dataset.xlsx">Swiggy Restaurant Data</a>
+- <a href="https://github.com/ankkona/Swiggy-Restaurant-Performance-Analysis/blob/main/Swiggy%20Dataset.xlsx">Swiggy Restaurant Data</a>
 
 # Tools & Techniques Used
 - Microsoft Excel
