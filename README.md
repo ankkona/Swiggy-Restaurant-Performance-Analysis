@@ -17,10 +17,10 @@ The dataset contains restaurant-level information including ratings, cost, cuisi
 <img src="https://github.com/ankkona/Swiggy-Restaurant-Performance-Analysis/blob/main/Dashboard.png" width="1200"/>
 
 # What I worked on
-- Cleaned and prepared raw data using Excel’s built-in features such as sorting, filtering, formulas, and removing duplicates.
-- Organized data using pivot tables to summarize key metrics.
-- Calculated KPIs like Total Passengers and Year-over-Year growth using Excel formulas.
-- Built an interactive dashboard with pivot charts and slicers for easy data exploration.
+- Cleaned and prepared raw restaurant data using Excel’s built-in features such as sorting, filtering, formulas, and removing duplicates.
+- Organized data using pivot tables to summarize key restaurant, city, and cuisine metrics.
+- Calculated KPIs like Total Restaurants, Average Rating, and High-Rated Restaurant percentages using Excel formulas.
+- Built an interactive dashboard with custom slicers (for Budget Category, City, and Cuisine) and pivot charts for seamless data exploration.
 
 # Data Cleaning
 - **Primary Cuisine** : Extracted the first cuisine listed from the original cuisine column.
